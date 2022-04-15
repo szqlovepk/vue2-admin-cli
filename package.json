@@ -2,7 +2,10 @@
   "name": "vue-admin-cli",
   "version": "1.0.0",
   "description": "vue-admin-cli是vue-admin的cli脚手架工具，支持快速搭建企业级中后台项目模板",
-  "main": "index.js",
+  "main": "./bin/index.js",
+  "bin": {
+    "vue-admin-cli": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +21,7 @@
   },
   "homepage": "https://github.com/szqlovepk/vue-admin-cli#readme",
   "devDependencies": {
-    "chalk": "^5.0.1",
+    "chalk": "^4.0",
     "commander": "^9.2.0",
     "download": "^8.0.0",
     "fs-extra": "^10.0.1",
