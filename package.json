@@ -21,14 +21,16 @@
   },
   "homepage": "https://github.com/szqlovepk/vue-admin-cli#readme",
   "devDependencies": {
-    "chalk": "^4.0",
-    "commander": "^9.2.0",
+    "chalk": "^3.0.0",
+    "co": "^4.6.0",
+    "commander": "^4.1.1",
     "download": "^8.0.0",
-    "fs-extra": "^10.0.1",
-    "handlebars": "^4.7.7",
-    "inquirer": "^8.2.2",
-    "log-symbols": "^5.1.0",
-    "ora": "^6.1.0",
-    "update-notifier": "^5.1.0"
+    "fs-extra": "^9.0.1",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^3.0.0",
+    "ora": "^5.1.0",
+    "thunkify": "^2.1.2",
+    "update-notifier": "^4.1.1"
   }
 }
