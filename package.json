@@ -1,10 +1,10 @@
 {
-  "name": "vue-admin-cli",
+  "name": "vue2-admin-cli",
   "version": "1.0.0",
-  "description": "vue-admin-cli是vue-admin的cli脚手架工具，支持快速搭建企业级中后台项目模板",
+  "description": "vue2-admin-cli是vue-admin的cli脚手架工具，支持快速搭建企业级中后台项目模板",
   "main": "./bin/index.js",
   "bin": {
-    "vue-admin-cli": "./bin/index.js"
+    "vue2-admin-cli": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -46,7 +46,7 @@ program
 .name('js-plugin-cli')
 .usage('<commands> [options]')
 .command('init <project_name>')
-.description('Create a javascript plugin project.')
+.description('Create a project based on vue-admin')
 .action(project => {
   initProject(project)
 })
