@@ -1,6 +1,6 @@
 {
   "name": "vue2-admin-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "vue2-admin-cli是vue-admin的cli脚手架工具，支持快速搭建企业级中后台项目模板",
   "main": "./bin/index.js",
   "bin": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/szqlovepk/vue-admin-cli/issues"
   },
   "homepage": "https://github.com/szqlovepk/vue-admin-cli#readme",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^3.0.0",
     "co": "^4.6.0",
     "commander": "^4.1.1",
