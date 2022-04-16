@@ -1,6 +1,6 @@
 {
   "name": "vue2-admin-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue2-admin-cli是vue-admin的cli脚手架工具，支持快速搭建企业级中后台项目模板",
   "main": "./bin/index.js",
   "bin": {

@@ -1,7 +1,10 @@
 # vue2-admin-cli
 
 vue2-admin-cli 是 vue-admin 的 cli 脚手架工具，支持快速搭建企业级中后台项目模板
+
 Vue2 admin cli is the CLI scaffolding tool of vue2 admin, which supports the rapid construction of enterprise level middle and back office project templates
+
+---
 
 ### vue2-admin-cli introduction
 
@@ -9,7 +12,7 @@ Vue2 admin cli is the CLI scaffolding tool of vue2 admin, which supports the rap
 
 ```
 npm install -g vue2-admin-cli
-# OR
+# or
 yarn global add vue2-admin-cli
 ```
 
@@ -39,6 +42,8 @@ vue2-admin-cli template //下载最新模板
 vue2-admin-cli init <project_name> // 创建项目
 ```
 
+---
+
 ### vue-admin introduction
 
 #### a solution for vue middle or background system(vue 中后台系统解决方案)
@@ -49,7 +54,13 @@ vue2-admin-cli init <project_name> // 创建项目
 
 ### 安装运行
 
-1.下载或克隆项目源码
+1.使用 vue2-admin-cli 脚手架工具下载或克隆项目源码
+
+```
+vue2-admin-cli init <project_name> // 创建项目
+or
+git clone https://github.com/szqlovepk/vue-admin.git
+```
 
 2.yarn 安装依赖(国内建议增加淘宝镜像源，不然很慢，你懂的 😁)
 `yarn`
@@ -64,6 +75,8 @@ build:qa // qa环境
 build:pre // pre环境
 build:prod // 线上生产环境
 ```
+
+---
 
 ### 结尾
 
