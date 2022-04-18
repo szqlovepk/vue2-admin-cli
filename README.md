@@ -18,7 +18,7 @@ yarn global add vue2-admin-cli
 
 #### usage
 
-##### 1.Check the vue-admin-cli version
+##### 1.Check the vue2-admin-cli version
 
 ```
 vue2-admin-cli upgrade //检查更新版本
